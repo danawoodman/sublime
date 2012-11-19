@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": 1351804756,
+	"installed_packages":
+	[
+		"Arduino",
+		"Chef",
+		"CoffeeScript",
+		"Color Highlighter",
+		"Cucumber",
+		"Djaneiro",
+		"ERB Insert and Toggle Commands",
+		"HTML5",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Phpcs",
+		"Rails Related Files",
+		"RubyTest",
+		"SCSS",
+		"SFTP",
+		"Simple Rails Navigator"
+	],
+	"repositories":
+	[
+		"https://github.com/kvs/ST2Nginx",
+		"https://github.com/squ1b3r/Djaneiro",
+		"git://github.com/ttscoff/MarkdownEditing.git",
+		"git://github.com/eddorre/SublimeERB.git",
+		"https://github.com/arioch/sublime-text-puppet-DEPRECATED.git",
+		"git://github.com/arioch/sublime-text-puppet-DEPRECATED.git",
+		"https://github.com/arioch/sublime-text-puppet-DEPRECATED.git",
+		"git://github.com/squ1b3r/Djaneiro.git",
+		"git://github.com/kuroir/SCSS.tmbundle.git"
+	]
+}
