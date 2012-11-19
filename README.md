@@ -7,7 +7,7 @@ This repo contains all my -- [Dana Woodman](http://danawoodman.com) -- Sublime T
 1. Clone this repo somewhere (I prefer Dropbox).
 
         mkdir -p ~/Dropbox/Programs/SublimeText2
-        git clone https://github.com/danawoodman/sublime.git ~/Dropbox/Programs/SublimeText2/User
+        git clone https://github.com/danawoodman/sublime.git ~/Dropbox/Programs/SublimeText2/Packages/User
 
 2. Install Sublime Text 2
 3. Remove the `User` folder in the `Packages` folder. *Make sure to back it up, especially if you have settings there!*
