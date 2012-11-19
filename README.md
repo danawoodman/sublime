@@ -18,6 +18,6 @@ This repo contains all my -- [Dana Woodman](http://danawoodman.com) -- Sublime T
 
         ln -s ~/Dropbox/Programs/SublimeText2/User ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
 
-5. [Install Control](http://wbond.net/sublime_packages/package_control/installation) and restart Sublime.
+5. Install [Package Control](http://wbond.net/sublime_packages/package_control/installation) and restart Sublime.
 6. ???
 7. Profit!
