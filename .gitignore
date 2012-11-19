@@ -4,3 +4,4 @@ sftp_servers
 *.chback
 *.last-run
 *.DS_Store
+*.log
