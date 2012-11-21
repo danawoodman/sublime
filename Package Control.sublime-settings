@@ -1,18 +1,17 @@
 {
-	"auto_upgrade_last_run": 1353360301,
+	"auto_upgrade_last_run": 1353375895,
 	"installed_packages":
 	[
 		"Arduino",
 		"Chef",
 		"CoffeeScript",
 		"Color Highlighter",
+		"ColorPicker",
 		"Cucumber",
 		"ERB Insert and Toggle Commands",
 		"HTML5",
 		"jQuery",
 		"LESS",
-		"Markdown Preview",
-		"MarkdownEditing",
 		"nginx",
 		"Package Control",
 		"Phpcs",
@@ -21,7 +20,8 @@
 		"SCSS",
 		"SCSS Snippets",
 		"SFTP",
-		"Simple Rails Navigator"
+		"Simple Rails Navigator",
+		"SublimeCodeIntel"
 	],
 	"repositories":
 	[
