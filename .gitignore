@@ -1,5 +1,6 @@
 inactive_sftp_servers
 sftp_servers
+sublime-license.txt
 *.cache
 *.chback
 *.last-run
