@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[Given $1
+When $2
+Then $3]]></content>
+  <tabTrigger>gwt</tabTrigger>
+  <scope>text.gherkin.feature</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[{{#if ${1:condition}}}
+  $0
+{{/if}}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html.handlebars</scope>
+    <description>if tag for handlebars</description>
+</snippet>

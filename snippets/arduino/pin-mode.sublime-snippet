@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pinMode(${1:pin}, ${2:INPUT|OUTPUT});]]></content>
+    <tabTrigger>pm</tabTrigger>
+    <scope>source.c++.arduino</scope>
+    <description>pinMode() method</description>
+</snippet>

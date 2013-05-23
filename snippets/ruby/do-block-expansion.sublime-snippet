@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[do${1: |${2:var}|}
+  $0
+end]]></content>
+    <tabTrigger>do</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>expand a do block with closing brackets</description>
+</snippet>

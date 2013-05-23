@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Background: $1
+  Given $2]]></content>
+  <tabTrigger>bg</tabTrigger>
+  <scope>text.gherkin.feature</scope>
+</snippet>

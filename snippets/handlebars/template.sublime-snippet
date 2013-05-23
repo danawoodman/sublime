@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<template name="${1:template_name}">
+  $0
+</template>]]></content>
+    <tabTrigger>temp</tabTrigger>
+    <scope>text.html.handlebars</scope>
+    <description>template tag for handlebars</description>
+</snippet>

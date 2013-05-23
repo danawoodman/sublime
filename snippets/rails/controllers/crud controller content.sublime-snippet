@@ -1,0 +1,56 @@
+<snippet>
+    <content><![CDATA[class ${1:Model}sController < ApplicationController
+
+  def index
+    @${2:model}s = $1.all
+  end
+
+  def show
+    @$2 = current_resource
+  end
+
+  def new
+    @$2 = $1.new
+  end
+
+  def edit
+    @$2 = current_resource
+  end
+
+  def create
+    @$2 = $1.new(params[:$2])
+
+    if @$2.save
+      redirect_to $2s_path, notice: '$1 was successfully created.'
+    else
+      render action: "new"
+    end
+  end
+
+  def update
+    @$2 = current_resource
+
+    if @$2.update_attributes(params[:$2])
+      redirect_to $2s_path, notice: '$1 was successfully updated.'
+    else
+      render action: "edit"
+    end
+  end
+
+  def destroy
+    @$2 = current_resource
+    @$2.destroy
+    redirect_to $2s_path
+  end
+
+private
+
+  def current_resource
+    @current_resource ||= $1.find(params[:id])
+  end
+end
+]]></content>
+    <tabTrigger>crud</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>rails controller crud scaffold block</description>
+</snippet>

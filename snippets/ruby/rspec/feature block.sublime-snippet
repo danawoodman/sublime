@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[feature "${1:feature desc}" do
+  scenario "${2:something happens...}" do
+    $0
+  end
+end]]></content>
+    <tabTrigger>feat</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>rspec feature block</description>
+</snippet>

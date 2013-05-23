@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[describe "${1:feature}" do
+  it "${2:does stuff}" do
+    $0
+  end
+end]]></content>
+    <tabTrigger>desc</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>rspec describe block</description>
+</snippet>

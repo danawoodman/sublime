@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{> ${1:name}}}]]></content>
+    <tabTrigger>></tabTrigger>
+    <scope>text.html.handlebars</scope>
+    <description>include tag for handlebars</description>
+</snippet>

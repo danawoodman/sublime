@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[let(:${1:var}) { ${2:create(${3::$1})} }]]></content>
+    <tabTrigger>let</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>rspec let block</description>
+</snippet>

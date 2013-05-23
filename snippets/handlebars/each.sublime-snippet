@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[{{#each ${1:iterable}}}
+  {{${2:this}}}$0
+{{/each}}]]></content>
+    <tabTrigger>each</tabTrigger>
+    <scope>text.html.handlebars</scope>
+    <description>each tag for handlebars</description>
+</snippet>
