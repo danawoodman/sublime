@@ -1,5 +1,6 @@
 {
-	"auto_complete_commit_on_tab": false,
+	"auto_complete_commit_on_tab": true,
+	"autocomplete": true,
 	"color_scheme": "Packages/User/themes/Tomorrow-Night-Eighties.tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
@@ -14,13 +15,15 @@
 		".sass-cache"
 	],
 	"font_face": "M+ 1mn",
-	"font_size": 14,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Ruby on Rails snippets",
-		"Vintage"
 	],
+	"jshint_options":
+	{
+		"laxcomma": true
+	},
 	"line_numbers": true,
 	"margin": 0,
 	"rulers":
