@@ -3,13 +3,12 @@
 	"installed_packages":
 	[
 		"Arduino",
-		"Chef",
 		"CoffeeScript",
 		"Color Highlighter",
-		"ColorPicker",
-		"Cucumber",
+		"ColorPick",
+		"eco",
+		"EJS",
 		"Emmet",
-		"ERB Insert and Toggle Commands",
 		"Guard",
 		"Handlebars",
 		"HTML Mustache",
@@ -20,17 +19,14 @@
 		"nginx",
 		"Package Control",
 		"Phpcs",
-		"Rails Related Files",
-		"Ruby on Rails snippets",
 		"Ruby Slim",
 		"RubyTest",
 		"Sass",
 		"SCSS",
 		"SCSS Snippets",
 		"SFTP",
-		"Simple Rails Navigator",
-		"Stylus",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter"
 	],
 	"repositories":
 	[
